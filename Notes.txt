@@ -1,0 +1,9 @@
+Weather App
+
+    -> UI/ UX (HTML, CSS)
+    -> API (JS)
+        -> Weather Details (OpenWeatherMap.org)
+        -> Wallpaper (Pixabay)
+
+    -> Repository (Github)
+    -> Host the Website (Vercel)
